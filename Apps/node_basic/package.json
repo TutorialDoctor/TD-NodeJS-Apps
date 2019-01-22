@@ -1,0 +1,12 @@
+{
+  "name": "node_basic",
+  "version": "1.0.0",
+  "description": "Make sure you have node installed first.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
